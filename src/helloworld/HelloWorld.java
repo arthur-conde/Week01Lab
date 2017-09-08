@@ -5,6 +5,8 @@
  */
 package helloworld;
 
+import org.omg.CORBA.Environment;
+
 /**
  *
  * @author 735610
@@ -16,6 +18,9 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        /*
+        Blah blah blak
+        */
     }
     
 }
