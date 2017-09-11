@@ -21,6 +21,8 @@ public class HelloWorld {
         /*
         Blah blah blak
         */
+        
+        System.out.println("Hello, world.");
     }
     
 }
